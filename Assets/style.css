@@ -15,7 +15,7 @@ body {
     width: 100%;
     height: 99vh;
 }
-                            /* Left side */
+                        /* Left side */
 
 .login_session {
     width: 50%;
@@ -47,7 +47,7 @@ body {
 }
 
 
-                            /* Right side */
+                        /* Right side */
 
 .background_overlay {
     background-color: rgba(0, 65, 129,0.4);
