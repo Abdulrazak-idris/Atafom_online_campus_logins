@@ -71,7 +71,6 @@ a {
     position: relative;
     width: 100%;
     margin-bottom: 10px;
-    
 }
 
 .login_session .formwrapper .formInputs .gmail img,
@@ -81,7 +80,6 @@ a {
     position: absolute;
     left: 12%;
     top: 21%;
-    
 } 
     
 .login_session .formwrapper .formInputs .facebook,
@@ -139,7 +137,6 @@ a {
     text-align: right;
     width: 100%;
     margin-bottom: 8px;
-
 }
 
 .btn {
