@@ -177,5 +177,35 @@ img {
     left: 30%;  
 }
 
+                /* Responsive */
 
+@media only screen and (max-width:540px) {
+    .logo_container {
+        display:none;
+    }
 
+    .container .login_session {
+        width: 100%;
+    }
+    
+    .container .login_session .formwrapper {
+        margin: 8% auto;
+        height: auto;
+    }
+
+    .copyrights, .Sign_up {
+        margin: 10% auto;
+    }
+
+    .gmail,
+    .facebook {
+        margin-bottom: 8%;
+    }
+}
+
+@media only screen and (min-width:740px) {
+    .gmail,
+    .facebook {
+        margin-bottom: 8%;
+    }
+}
