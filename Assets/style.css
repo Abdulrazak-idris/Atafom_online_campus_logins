@@ -169,6 +169,7 @@ a {
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     background-position: center;
+    object-fit: cover;
 }
 
 img {
